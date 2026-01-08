@@ -3,11 +3,12 @@
         "active_partition": 1,
         "update_flag":0,
         "version_major":3,
-        "version_minor":0,
+        "version_minor":2,
         "version_patch":1,
         "crc32":"0xCD876932"
     }
 }
+
 
 
 
